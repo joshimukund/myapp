@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="email_or_phonenumber">Email Or PhoneNumber</string>
+    <string name="login_form">Login Form</string>
+    <string name="show_password">Show Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password :</string>
+    <string name="email_or_phonenumber1">Email Or PhoneNumber :</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="fill_in_the_form_below_to_get_instant_acess">Fill in the form below to get instant acess</string>
+    <string name="back">Back</string>
+    <string name="by_clicking_i_agree_term_and_condition">By Clicking I Agree Term And Condition</string>
+    <string name="sign_me_up">Sign Me Up!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="password1">Password</string>
+    <string name="gender" translatable="false">Gender</string>
+    <string-array name="Gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
